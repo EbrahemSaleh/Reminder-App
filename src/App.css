@@ -1,0 +1,10 @@
+.app{
+background-color: rgb(67, 134, 134);
+height: 100vh;
+}
+.app .hi{
+    background-color: darkgrey;
+}
+.app h2 {
+    text-shadow: 1px 2px 4px ;
+}
